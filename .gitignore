@@ -1,0 +1,4 @@
+*.xml
+*.xml.new
+__pycache__/
+*.pyc
